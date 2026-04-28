@@ -9,6 +9,8 @@ env/
 
 .ipynb_checkpoints/
 
+*.docx
+
 .sixth/
 
 .DS_Store
