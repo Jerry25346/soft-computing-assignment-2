@@ -1,0 +1,10 @@
+Compared algorithms: Original GWO, PSO, HPRO
+Benchmark functions: Rastrigin, Styblinski-Tang, Ackley, Griewank
+Population size: 30
+Maximum iterations: 1000
+Independent runs: 10
+Dimensions: [10, 30, 50]
+Bounds: (-5.0, 5.0)
+Base seed: 42; run seed: BASE_SEED + run
+PSO parameters: w 0.9->0.4, c1=2.0, c2=2.0, vmax=1.0
+Success criteria: Rastrigin <= 1e-2 * dim; Styblinski-Tang within 5e-1 * dim of -39.16616570377142 * dim; Ackley <= 1e-2; Griewank <= 1e-2

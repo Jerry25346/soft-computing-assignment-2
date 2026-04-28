@@ -1,0 +1,9 @@
+Final algorithm: GWO_hybrid0.3
+Python: 3.10.11
+NumPy: 1.26.4
+Matplotlib: 3.10.8
+BASE_SEED: 42; seed per run: BASE_SEED + run
+Population size: 30; iterations: 1000; runs: 10; dimensions: 10, 30, 50
+Bounds: [-5, 5]
+Functions: Rastrigin, Styblinski-Tang, Ackley, Griewank
+Success criteria: Rastrigin <= 1e-2 * dim; Styblinski-Tang within 5e-1 * dim of -39.16616570377142 * dim; Ackley <= 1e-2; Griewank <= 1e-2

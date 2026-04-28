@@ -1,0 +1,61 @@
+notebook,algorithm_variant,function,dim,best,mean,std,worst,success_rate_percent,mean_time_sec
+GWO_original.ipynb,Original GWO baseline,Rastrigin,10,0.000000,0.000001,0.000000,0.000001,100.0,0.8794
+GWO_original.ipynb,Original GWO baseline,Rastrigin,30,0.000012,0.000017,0.000005,0.000026,100.0,0.8939
+GWO_original.ipynb,Original GWO baseline,Rastrigin,50,0.000088,0.000110,0.000021,0.000158,100.0,0.9110
+GWO_original.ipynb,Original GWO baseline,Styblinski-Tang,10,-391.661425,-360.898186,21.053483,-329.740505,10.0,0.9038
+GWO_original.ipynb,Original GWO baseline,Styblinski-Tang,30,-936.370111,-795.742192,70.572649,-678.121850,0.0,0.9246
+GWO_original.ipynb,Original GWO baseline,Styblinski-Tang,50,-1201.693037,-1046.724909,78.079068,-948.905356,0.0,0.9535
+GWO_original.ipynb,Original GWO baseline,Ackley,10,0.000047,0.000067,0.000016,0.000091,100.0,0.9543
+GWO_original.ipynb,Original GWO baseline,Ackley,30,0.000177,0.000238,0.000040,0.000287,100.0,0.9732
+GWO_original.ipynb,Original GWO baseline,Ackley,50,0.000366,0.000431,0.000064,0.000563,100.0,0.9996
+GWO_original.ipynb,Original GWO baseline,Griewank,10,0.000000,0.004940,0.009467,0.031220,90.0,0.9206
+GWO_original.ipynb,Original GWO baseline,Griewank,30,0.000000,0.000980,0.002939,0.009796,100.0,0.9374
+GWO_original.ipynb,Original GWO baseline,Griewank,50,0.000000,0.001345,0.004034,0.013447,90.0,0.9615
+GWO_group.ipynb,Group leadership ablation,Rastrigin,10,0.000000,0.000001,0.000000,0.000002,100.0,0.8716
+GWO_group.ipynb,Group leadership ablation,Rastrigin,30,0.000054,0.000097,0.000032,0.000158,100.0,0.8885
+GWO_group.ipynb,Group leadership ablation,Rastrigin,50,0.000317,0.000540,0.000140,0.000762,100.0,1.0369
+GWO_group.ipynb,Group leadership ablation,Styblinski-Tang,10,-352.328239,-324.111411,15.931196,-299.306017,0.0,0.9093
+GWO_group.ipynb,Group leadership ablation,Styblinski-Tang,30,-623.985066,-587.257687,35.403424,-520.163821,0.0,0.9290
+GWO_group.ipynb,Group leadership ablation,Styblinski-Tang,50,-908.881365,-847.777606,37.045285,-791.055735,0.0,1.1234
+GWO_group.ipynb,Group leadership ablation,Ackley,10,0.000069,0.000097,0.000021,0.000140,100.0,0.9558
+GWO_group.ipynb,Group leadership ablation,Ackley,30,0.000275,0.000440,0.000095,0.000581,100.0,0.9726
+GWO_group.ipynb,Group leadership ablation,Ackley,50,0.000664,0.000931,0.000124,0.001094,100.0,1.1308
+GWO_group.ipynb,Group leadership ablation,Griewank,10,0.000000,0.006611,0.012077,0.041062,90.0,0.9226
+GWO_group.ipynb,Group leadership ablation,Griewank,30,0.000000,0.000000,0.000000,0.000000,100.0,0.9222
+GWO_group.ipynb,Group leadership ablation,Griewank,50,0.000000,0.000000,0.000000,0.000001,100.0,1.0818
+GWO_borndeath.ipynb,Birth-death ablation,Rastrigin,10,0.000000,0.000000,0.000000,0.000001,100.0,4.2073
+GWO_borndeath.ipynb,Birth-death ablation,Rastrigin,30,0.000006,0.000014,0.000004,0.000022,100.0,4.2213
+GWO_borndeath.ipynb,Birth-death ablation,Rastrigin,50,0.000059,0.000119,0.000032,0.000170,100.0,4.3397
+GWO_borndeath.ipynb,Birth-death ablation,Styblinski-Tang,10,-391.661545,-365.905234,17.249609,-338.249998,20.0,4.3080
+GWO_borndeath.ipynb,Birth-death ablation,Styblinski-Tang,30,-962.329288,-853.620242,74.258393,-727.537809,0.0,4.5209
+GWO_borndeath.ipynb,Birth-death ablation,Styblinski-Tang,50,-1219.477572,-1096.358576,91.262970,-929.159005,0.0,4.5233
+GWO_borndeath.ipynb,Birth-death ablation,Ackley,10,0.000053,0.000063,0.000008,0.000076,100.0,4.4414
+GWO_borndeath.ipynb,Birth-death ablation,Ackley,30,0.000181,0.000217,0.000025,0.000247,100.0,4.6383
+GWO_borndeath.ipynb,Birth-death ablation,Ackley,50,0.000325,0.000411,0.000065,0.000515,100.0,4.7139
+GWO_borndeath.ipynb,Birth-death ablation,Griewank,10,0.000000,0.009011,0.014273,0.041508,80.0,4.3884
+GWO_borndeath.ipynb,Birth-death ablation,Griewank,30,0.000000,0.001221,0.003664,0.012212,90.0,4.5190
+GWO_borndeath.ipynb,Birth-death ablation,Griewank,50,0.000000,0.001338,0.004013,0.013377,90.0,4.6145
+GWO_hybrid.ipynb,Hybrid draft/group ablation,Rastrigin,10,0.000000,0.000001,0.000000,0.000002,100.0,0.9517
+GWO_hybrid.ipynb,Hybrid draft/group ablation,Rastrigin,30,0.000054,0.000097,0.000032,0.000158,100.0,1.0640
+GWO_hybrid.ipynb,Hybrid draft/group ablation,Rastrigin,50,0.000317,0.000540,0.000140,0.000762,100.0,1.0472
+GWO_hybrid.ipynb,Hybrid draft/group ablation,Styblinski-Tang,10,-352.328239,-324.111411,15.931196,-299.306017,0.0,1.0516
+GWO_hybrid.ipynb,Hybrid draft/group ablation,Styblinski-Tang,30,-623.985066,-587.257687,35.403424,-520.163821,0.0,1.1054
+GWO_hybrid.ipynb,Hybrid draft/group ablation,Styblinski-Tang,50,-908.881365,-847.777606,37.045285,-791.055735,0.0,1.0897
+GWO_hybrid.ipynb,Hybrid draft/group ablation,Ackley,10,0.000069,0.000097,0.000021,0.000140,100.0,1.1824
+GWO_hybrid.ipynb,Hybrid draft/group ablation,Ackley,30,0.000275,0.000440,0.000095,0.000581,100.0,1.1220
+GWO_hybrid.ipynb,Hybrid draft/group ablation,Ackley,50,0.000664,0.000931,0.000124,0.001094,100.0,1.0459
+GWO_hybrid.ipynb,Hybrid draft/group ablation,Griewank,10,0.000000,0.006611,0.012077,0.041062,90.0,1.1061
+GWO_hybrid.ipynb,Hybrid draft/group ablation,Griewank,30,0.000000,0.000000,0.000000,0.000000,100.0,1.0771
+GWO_hybrid.ipynb,Hybrid draft/group ablation,Griewank,50,0.000000,0.000000,0.000000,0.000001,100.0,1.0294
+GWO_hybrid0.3.ipynb,Final GWO_hybrid0.3,Rastrigin,10,0.000000,0.000001,0.000001,0.000002,100.0,4.0988
+GWO_hybrid0.3.ipynb,Final GWO_hybrid0.3,Rastrigin,30,0.000051,0.000075,0.000015,0.000095,100.0,4.4536
+GWO_hybrid0.3.ipynb,Final GWO_hybrid0.3,Rastrigin,50,0.000245,0.000523,0.000151,0.000795,100.0,4.4307
+GWO_hybrid0.3.ipynb,Final GWO_hybrid0.3,Styblinski-Tang,10,-363.387671,-336.012717,18.616315,-302.452723,0.0,4.3777
+GWO_hybrid0.3.ipynb,Final GWO_hybrid0.3,Styblinski-Tang,30,-760.386662,-623.297056,67.026394,-516.436638,0.0,4.5793
+GWO_hybrid0.3.ipynb,Final GWO_hybrid0.3,Styblinski-Tang,50,-1146.249941,-970.540325,94.240241,-843.804620,0.0,4.6953
+GWO_hybrid0.3.ipynb,Final GWO_hybrid0.3,Ackley,10,0.000068,0.000096,0.000015,0.000120,100.0,4.5943
+GWO_hybrid0.3.ipynb,Final GWO_hybrid0.3,Ackley,30,0.000304,0.000413,0.000088,0.000635,100.0,4.7456
+GWO_hybrid0.3.ipynb,Final GWO_hybrid0.3,Ackley,50,0.000717,0.000888,0.000127,0.001095,100.0,4.8099
+GWO_hybrid0.3.ipynb,Final GWO_hybrid0.3,Griewank,10,0.000000,0.006559,0.012091,0.041142,90.0,4.6382
+GWO_hybrid0.3.ipynb,Final GWO_hybrid0.3,Griewank,30,0.000000,0.000000,0.000000,0.000000,100.0,4.6209
+GWO_hybrid0.3.ipynb,Final GWO_hybrid0.3,Griewank,50,0.000000,0.000001,0.000000,0.000001,100.0,4.7050
